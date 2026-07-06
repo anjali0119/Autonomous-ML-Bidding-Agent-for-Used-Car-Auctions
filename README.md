@@ -46,7 +46,7 @@ As auction rounds increase, the denominator grows exponentially, slowing down th
 
 ---
 
-## 👤 Author
+## Author
 **Name:** Anjali Pogulwad  
 **Program:** B.Tech in Data Science and Artificial Intelligence (DSAI)  
 **Institution:** IIT Guwahati
