@@ -1,8 +1,6 @@
 # Autonomous-ML-Bidding-Agent-for-Used-Car-Auctions
 An autonomous machine learning bidding agent for used car auctions. It utilizes a highly tuned LightGBM regression model to predict hammer prices and executes a deterministic, exponential decay bidding strategy to manage a $500,000 budget for maximum profit.
 
-# Autonomous Bidding Agent for Used Car Auctions
-
 ## Project Overview
 This project involves the development of an autonomous bidding agent designed to participate in a live wholesale used car auction simulation[cite: 2]. The primary objectives were to train a machine learning regression model to accurately predict the final selling price (hammer price) of a vehicle and to develop a deterministic bidding algorithm to manage a $500,000 budget to secure a profitable inventory[cite: 2].
 
